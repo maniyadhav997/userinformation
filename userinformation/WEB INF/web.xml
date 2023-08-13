@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<userdata>
+<user1>
+<jntuno>561</jntuno>
+<name> chandu</name>
+<phno>9989891510</phno>
+<address>srikakulam</address>
+</user1>
+<user2>
+<jntuno>540</jntuno>
+<name> karteek</name>
+<phno>9701443556</phno>
+<address>srikakulam1</address>
+</user2>
+<user3>
+<jntuno>525</jntuno>
+<name> giri</name>
+<phno>9897895301</phno>
+<address>rajam</address>
+</user3><user4>
+<jntuno>526</jntuno>
+<name>gopi</name>
+<phno>9999789540</phno>
+<address>parlakimidi</address>
+</user4>
+<user5>
+<jntuno>513</jntuno>
+<name> manoj</name>
+<phno>9989233331</phno>
+<address>hyderabad</address>
+</user5>
+<user6>
+<jntuno>514</jntuno>
+<name> balaji</name>
+<phno>9999789560</phno>
+<address>vizag</address>
+</user6>
+<user7>
+<jntuno>567</jntuno>
+<name>kiran </name>
+<phno>9999178957</phno>
+<address>vijayanagaram</address>
+</user7>
+<user8>
+<jntuno>518</jntuno>
+<name> sekhar</name>
+<phno>789580</phno>
+<address>bobili</address>
+</user8>
+<user9>
+<jntuno>517</jntuno>
+<name>chaitu</name>
+<phno>789590</phno>
+<address>sallur</address>
+</user9>
+<user10>
+<jntuno>595</jntuno>
+<name> sravan</name>
+<phno>9000789500</phno>
+<address>sklm</address>
+</user10>
+</userdata>
+

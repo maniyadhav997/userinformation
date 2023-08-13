@@ -1,0 +1,20 @@
+<html>
+<!--DOM with javascript>
+<head>
+<title>user profile example</title>
+</head>
+<body>
+<script type="text/JavaScript">
+var xmldoc=new ActiveXObject("Microsoft.XMLDOM"); xmldoc.load("data.xml");
+var ele=xmldoc.documentElement;
+var y=window.prompt("eneter user num",1);
+var node=ele.childNodes.item(y-1);
+for(var i=0;i<node.childNodes.length;i++)
+{
+var child=node.childNodes.item(i);
+var val=child.firstChild;
+document.write("<h2>"+child.nodeName+":"+val.nodeValue);
+}
+</script>
+</body>
+</html>
